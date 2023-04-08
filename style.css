@@ -1,0 +1,22 @@
+body{
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h1{
+    letter-spacing: 15px;
+    font-weight: normal;
+}
+.navbar, footer{
+    background-color:  #490909;
+}
+.color{
+    background-color: #F6E1C5;
+}
+.mort{
+   background:#A5342B69;
+}
+footer{
+    background-color: 
+    #311919;
+}
